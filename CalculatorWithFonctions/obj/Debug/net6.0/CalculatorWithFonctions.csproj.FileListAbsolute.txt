@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\bin\Debug\net6.0\CalculatorWithFonctions.exe
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\bin\Debug\net6.0\CalculatorWithFonctions.deps.json
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\bin\Debug\net6.0\CalculatorWithFonctions.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\bin\Debug\net6.0\CalculatorWithFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\bin\Debug\net6.0\ref\CalculatorWithFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\bin\Debug\net6.0\CalculatorWithFonctions.pdb
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\ref\CalculatorWithFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.pdb
+C:\Users\BENAHMAD\source\repos\Week7Fontions\CalculatorWithFonctions\obj\Debug\net6.0\CalculatorWithFonctions.genruntimeconfig.cache

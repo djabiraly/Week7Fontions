@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\bin\Debug\net6.0\Week7Fontions.exe
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\bin\Debug\net6.0\Week7Fontions.deps.json
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\bin\Debug\net6.0\Week7Fontions.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\bin\Debug\net6.0\Week7Fontions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\bin\Debug\net6.0\ref\Week7Fontions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\bin\Debug\net6.0\Week7Fontions.pdb
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\ref\Week7Fontions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.pdb
+C:\Users\BENAHMAD\source\repos\Week7Fontions\Week7Fontions\obj\Debug\net6.0\Week7Fontions.genruntimeconfig.cache

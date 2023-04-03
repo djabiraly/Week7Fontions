@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\bin\Debug\net6.0\DisplaysArrayElementsFonctions.exe
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\bin\Debug\net6.0\DisplaysArrayElementsFonctions.deps.json
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\bin\Debug\net6.0\DisplaysArrayElementsFonctions.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\bin\Debug\net6.0\DisplaysArrayElementsFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\bin\Debug\net6.0\ref\DisplaysArrayElementsFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\bin\Debug\net6.0\DisplaysArrayElementsFonctions.pdb
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\ref\DisplaysArrayElementsFonctions.dll
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.pdb
+C:\Users\BENAHMAD\source\repos\Week7Fontions\DisplaysArrayElementsFonctions\obj\Debug\net6.0\DisplaysArrayElementsFonctions.genruntimeconfig.cache
